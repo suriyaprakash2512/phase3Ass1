@@ -1,0 +1,11 @@
+D:\phase 4\Day1\Assessment1\CalAssLib\bin\Debug\net6.0\CalAssLib.deps.json
+D:\phase 4\Day1\Assessment1\CalAssLib\bin\Debug\net6.0\CalAssLib.dll
+D:\phase 4\Day1\Assessment1\CalAssLib\bin\Debug\net6.0\CalAssLib.pdb
+D:\phase 4\Day1\Assessment1\CalAssLib\obj\Debug\net6.0\CalAssLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\phase 4\Day1\Assessment1\CalAssLib\obj\Debug\net6.0\CalAssLib.AssemblyInfoInputs.cache
+D:\phase 4\Day1\Assessment1\CalAssLib\obj\Debug\net6.0\CalAssLib.AssemblyInfo.cs
+D:\phase 4\Day1\Assessment1\CalAssLib\obj\Debug\net6.0\CalAssLib.csproj.CoreCompileInputs.cache
+D:\phase 4\Day1\Assessment1\CalAssLib\obj\Debug\net6.0\CalAssLib.dll
+D:\phase 4\Day1\Assessment1\CalAssLib\obj\Debug\net6.0\refint\CalAssLib.dll
+D:\phase 4\Day1\Assessment1\CalAssLib\obj\Debug\net6.0\CalAssLib.pdb
+D:\phase 4\Day1\Assessment1\CalAssLib\obj\Debug\net6.0\ref\CalAssLib.dll
